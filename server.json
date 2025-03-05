@@ -23,6 +23,30 @@
       "category": "Educação",
       "price": 2000,
       "createdAt": "2023-10-02T00:11:00.957Z"
+    },
+    {
+      "description": "X-Burgão",
+      "price": 20,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-03-05T02:12:17.689Z",
+      "id": 4
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2025-03-05T02:15:13.155Z",
+      "id": 5
+    },
+    {
+      "description": "Dogão da esquina",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-03-05T02:25:27.302Z",
+      "id": 6
     }
   ]
 }
